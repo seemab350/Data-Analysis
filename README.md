@@ -8,17 +8,19 @@ This repository contains four projects showcasing data analysis, visualization, 
 - File: `PowerBi Dax Project.pbix`
 - Description: A dashboard analyzing Titanic passenger data using DAX measures, showing survival rates, passenger demographics, and insights.
 - Open using Power BI Desktop.
-- WorkFlow:
+- WorkFlow shown in "titanic data flowchart.png"
 
 ### 2. Sales Report Dashboard
 - File: `PowerBi-Proj01.pbix`
 - Description: A sales report dashboard showing monthly sales, revenue trends, top products, and regional performance.
 - Open using Power BI Desktop.
+- WorkFlow shown in "sales.png"
 
 ### 3. Amazon Product Sales Dashboard
 - File: `PowerBi-proj-02-amazon sales dashboard.pbix`
 - Description: A dashboard analyzing Amazon product sales, top categories, and trends with interactive visuals.
 - Open using Power BI Desktop.
+- WorkFlow shown in "AmazonSales.png"
 
 ### 4. Store Annual Report Dashboard (Excel Project)
 - **File:** `Store Annual Report (Dashboard) Data.xlsx`
@@ -29,6 +31,7 @@ This repository contains four projects showcasing data analysis, visualization, 
   - Created charts and visuals
   - Designed an interactive Excel dashboard to visualize insights and trends
 - **Open With:** MS Excel
+- WorkFlow shown in "excel data.png"
 
 
 ## Skills Demonstrated
