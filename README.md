@@ -8,6 +8,7 @@ This repository contains four projects showcasing data analysis, visualization, 
 - File: `PowerBi Dax Project.pbix`
 - Description: A dashboard analyzing Titanic passenger data using DAX measures, showing survival rates, passenger demographics, and insights.
 - Open using Power BI Desktop.
+- WorkFlow:
 
 ### 2. Sales Report Dashboard
 - File: `PowerBi-Proj01.pbix`
