@@ -22,7 +22,7 @@ This repository contains four projects showcasing data analysis, visualization, 
 - Open using Power BI Desktop.
 - WorkFlow shown in "AmazonSales.png"
 - Dashboard Preview:  
-  ![Amazon Sales Dashboard](Amazon-Sales-Dashboard.png)
+  ![Amazon Sales Dashboard](Amazon-Sales-Dashboard Preview.png)
 
 ### 4. Store Annual Report Dashboard (Excel Project)
 - **File:** `Store Annual Report (Dashboard) Data.xlsx`
