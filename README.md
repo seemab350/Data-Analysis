@@ -1,4 +1,4 @@
-# Power BI Projects Portfolio
+# Power BI Projects 
 
 This repository contains two Power BI projects showcasing my data visualization and business intelligence skills.
 
