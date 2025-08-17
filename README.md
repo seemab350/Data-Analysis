@@ -21,8 +21,9 @@ This repository contains four projects showcasing data analysis, visualization, 
 - Description: A dashboard analyzing Amazon product sales, top categories, and trends with interactive visuals.
 - Open using Power BI Desktop.
 - WorkFlow shown in "AmazonSales.png"
-- Dashboard Preview:  
-  ![Amazon Sales Dashboard](Amazon-Sales-Dashboard Preview.png)
+-  Dashboard Preview:  
+  ![Amazon Sales Dashboard](Amazon-Sales-Dashboard.png)
+
 
 ### 4. Store Annual Report Dashboard (Excel Project)
 - **File:** `Store Annual Report (Dashboard) Data.xlsx`
